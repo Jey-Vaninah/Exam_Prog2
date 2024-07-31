@@ -9,3 +9,10 @@ On a souvent besoin de redefinir equals et hashcode si on fait des comparaison p
 3. Qu’est ce que le polymorphisme statique ? Donnez un exemple.
 Le polymorphisme statique c'est qui permet d'avoir plusieur methodes avec les memes nom mais des differents parametres.
  exemple:
+
+public int somme(Integer a, Integer b) {
+        return 0;
+        }
+ public int somme(Doube a, Double b) {
+    return 0;
+          }
