@@ -1,0 +1,11 @@
+1. Que signifie l’annotation @Override ?
+
+L'annotation @Override signifie ecraser une autre methode deja definit.
+
+2. Pourquoi est-ce qu’on a souvent besoin de redéfinir equals et hashCode ?
+
+On a souvent besoin de redefinir equals et hashcode si on fait des comparaison parce que si on ne definit pas java compare les cases memoires.
+
+3. Qu’est ce que le polymorphisme statique ? Donnez un exemple.
+Le polymorphisme statique c'est qui permet d'avoir plusieur methodes avec les memes nom mais des differents parametres.
+ exemple:
