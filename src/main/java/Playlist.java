@@ -46,12 +46,5 @@ public class Playlist {
 
     }
 
-    public int removeById(int id) {
-        chansons.removeIf(Chansons ->chansons.get(id) == Chansons);
-        return id;
-    }
-
-
-    }
 
 }
